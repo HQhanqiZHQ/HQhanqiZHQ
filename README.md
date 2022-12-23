@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on AI,ML or DM projects
+- 💼 I’m looking to collaborate on AI,ML or DM projects
 - 📫 Reach me at: hanqizenghannana@gmail.com
-- 😄 Pronouns: she/her/hers
+- 👩🏼‍🔧 Pronouns: she/her/hers
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HQhanqiZHQ&count_private=true&show_icons=true&theme=cobalt)
