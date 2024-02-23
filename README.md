@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 I’m looking to collaborate on data engineering projects
-- 📫 Reach me at: hanqzeng@163.com
+- 📫 Reach me at: hanqizenghannanana@gmail.com
 - 👩🏼‍🔧 Pronouns: she/her/hers
 
 
